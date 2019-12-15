@@ -1,0 +1,1 @@
+this project is just some model for university evalution system

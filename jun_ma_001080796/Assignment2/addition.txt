@@ -1,0 +1,2 @@
+about how to determine the car, I already used x and y to determine the location and there is another way to determine by map and by using dijkstra(the weight=distance*Road condition)
+
